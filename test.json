@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "praxis-study-233220",
+  "private_key_id": "53a708734e3ffc132cdd5f99056012cc827a4ed5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDxDhnKSiLVSpkh\nt53sKDoSShT+CK59EuJn8uHYLxwlEc2p6Z0gVsLmmiTWhHwNBaYGa8Xv/ohLETQX\n10J+xbb3E4XQiWW55DUZwYSjBBb8F22j7kq+nvUJe9ApCPNz1T/S1ps1uPslVpYv\ngZGnaP81xBH6a8lwKHau75Bsxxq0YtG20tIp/TqRvqRelrFOA7PqHBYtxep6/Dxp\nLZsUjV6pqHuSSdvMK+xrv1dtM40dlp8uDIa+N9FNKwdDLtsNIvjfXzSiyz4pitId\nI94kdYB6gK5TOiaXPziysPO0bhSxlYwTLaXguHkcf0vziYfvIgq9VDXVFxIuDGcl\n9iPY0AArAgMBAAECggEAEs9g39ItKauqi2ECp7zz2x2Aydnvk773f9kKGo6Cibn7\n7HhYVH+wscHxgfPQokuAixu51GJuTD1JbVrUy4OuJVWWqZEvKPRP2HSrXvUgvgct\n/Q7JMlrBED5jHfCe3rkTQ+aPMf//SQiaq5ZWwVOGJrHoHTxv+ZqOuFPlVzeqM80j\nfy3qIl9LeBV/TiYNk2fybzm4fbBQrB6PCZQTRHkPnNdC5YGe/VFYN47ofJuiSY34\nuGcgLZiLTJXGgcODSfA4GuzBopPDnoEvQ2SxJ9OZWctjafU1ZgMBKp7WShOeCRo5\nxjapjL29l7CmuQQMKu9jpzB3doQ/Da6n88gSabvJ8QKBgQD5dXnhzET2+2DVomV6\nkttWDY+lMIPO79Jjc6HX2qEdopY77OM/67s66mjRr1TjQBd0rassWi1RR66Fy8RZ\nnT21CbJaI9HKgFFSPXMc3TWr+cvRPz78THufgCqBFmAImEdQS5rpq+45jHNPrTo+\nMADbVMHnaboZooD3nRxRtyOW1QKBgQD3YDaIbhFGuNvJJXKarN1jAkj5+rcGzC2Y\nE4aDn9Nrrrlbilfd6DuN6xsM7J5X6OWsInpadGyR/GwIJbgk2yVWf9TfVcGTlcL4\n4v8ej8vvdvVHVdPAToxf8vNUb7SJaOLDhEXBvhYe2lJY5lvX9tEpePwZAfRFCc6h\n+Mfj3K66/wKBgGVutxhxDrm+jSlQ1yJ4BGeBLB9nErFaIpn9spkqdMiwC5ZiRCUB\nnSffmK9qM4IT1XXECA4IvNSH6RbOPBCUNzsdrj+owO0uL+LYya265NAAyjdTGDFO\niBXa7219w567DIRBucO5/Su5SEnljgErU63bUNzfyKQTx4znfVRcu0PhAoGALLmn\ngmksFHZNvoNXwiFo8YKzQQcUWlVGFQ3KrzeRWRHBD4zmsAdR5SnRvTd2tXw1MjcV\nmg8cphRWT+7J6Vf52zbHfQ2bLxzPoIIiEBt9irEeTaR14XoSJTLezbBYmtNs1F6w\n4gOFKlTcuJgFmPlV/cKTCc5xpJ3OTziUo1z99m8CgYBPqWEuYHPN6Km57aNsONaa\nLIt2G8uPpP4KdGs3+oeS9GPNLIjfKkVOqrauRJHN0EiyVSz1K0j++vPbBMK4X/30\nuuWjULaIw8sDlqazfABkbLTqVQeOBvaS0Ei8ufyUsMIoynNwy+RscVYe6vOn68cF\nXIKGVLwLrLL5uS1ujfa0lA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fadliselaz@praxis-study-233220.iam.gserviceaccount.com",
+  "client_id": "106541770825382871298",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fadliselaz%40praxis-study-233220.iam.gserviceaccount.com"
+}
