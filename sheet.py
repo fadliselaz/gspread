@@ -7,5 +7,5 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name('test.json', scop
 gc = gspread.authorize(credentials)
 
 # work sheet yang dipakai
-wks = gc.open("sheet").sheet1
+# wks = gc.open("sheet").sheet1
 
