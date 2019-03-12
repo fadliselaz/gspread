@@ -1,4 +1,8 @@
 from sheet import *
+import time
+import random
+
+
 
 #kita tentukan file mana yang mau kita gunakan
 wks = gc.open("customerEmail")
@@ -11,12 +15,19 @@ colUsername =  sh1.col_values(1)
 colPassword = sh1.col_values(3)
 
 #menemukan row values
-rw = sh1.row_values(2)
+rw = sh1.col_values(2)
+rwl = len(rw)
 
 #meneumak string tertentu pada all sheet
-fd = sh1.find("aprilianisah.91@gmail.com")
+#fd = sh1.find("aprilianisah.91@gmail.com")
+nm = [1,2,3,4,5]
+rnm = random.choice(nm)
 
-print(f"di temukan pada Row : {fd.row} dan Column : {fd.col}")
+for i in range(rwl):
+	print("Whatsapp sent to : " + rw[i])
+	time.sleep(rnm)
+
+
 
 
 
